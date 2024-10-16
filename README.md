@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Algorithm and Data Structures in Java**
 
-- 🤝 I’m looking for help with **learning Advanced Java**
+- 🤝 I’m looking for help with **learning Web Programming Technologies**
 
 - 💬 Ask me about **Unreal Engine**
 
