@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **to improve my skills and become a Full Stack Java Developer**
 
-- 🌱 I’m currently learning **Algorithm and Data Structures in Java**
+- 🌱 I’m currently learning **Advanced Java to work on Dynamic Web Applications**
 
-- 🤝 I’m looking for help with **learning Web Programming Technologies**
+- 🤝 I’m looking for help with **learning Dynamic Web Application Programming Technologies**
 
 - 💬 Ask me about **Unreal Engine**
 
